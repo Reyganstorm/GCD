@@ -4,6 +4,6 @@
         <page name='01 Lesson - Thread &amp; Pthread'/>
         <page name='02 Lesson - Quality of service (QoS)'/>
         <page name='03 Lesson - Synchronisation &amp; Mutex'/>
-        <page name='Untitled Page'/>
+        <page name='04 Lesson - NSRecursiveLock &amp; Mutex Recursive lock 4'/>
     </pages>
 </playground>
