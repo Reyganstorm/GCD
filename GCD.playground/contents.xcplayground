@@ -3,7 +3,7 @@
     <pages>
         <page name='01 Lesson - Thread &amp; Pthread'/>
         <page name='02 Lesson - Quality of service (QoS)'/>
-        <page name='Untitled Page 3'/>
+        <page name='03 Lesson - Synchronisation &amp; Mutex'/>
         <page name='Untitled Page'/>
     </pages>
 </playground>
