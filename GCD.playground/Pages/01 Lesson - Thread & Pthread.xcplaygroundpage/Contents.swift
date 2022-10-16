@@ -1,3 +1,5 @@
+//: [Previous](@previous)
+
 // Thread
 // Operation
 // GCD
@@ -32,3 +34,5 @@ var nstread = Thread {
 nstread.start()
 nstread.cancel()
 nstread.isFinished
+
+//: [Next](@next)
